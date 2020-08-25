@@ -1,5 +1,3 @@
-### Hi there 👋
-
 All minor projects at [StrinTH](https://github.com/StrinTH)
 
 - Love to learn.
