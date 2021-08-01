@@ -1,5 +1,3 @@
-![c](https://raw.githubusercontent.com/samyk/samyk/main/.../c.svg)
-
 ## Introduction
 * Fullstack M.E.R.N Developer
 * Former Security Researcher/Pentester
