@@ -9,6 +9,6 @@
 
 ![Count](https://profile-counter.glitch.me/0x0is1/count.svg)
 ## Contact
-* Mail: [0x0is1](0x0is1@protonmail.com)
+* Mail: [0x0is1](mailto:0x0is1@protonmail.com)
 * Reddit: [u/0x0is1](https://reddit.com/u/0x0is1)
 * Twitter: [0x0is1](https://twitter.com/0x0is1)
