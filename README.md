@@ -9,8 +9,6 @@
 ## Visitors Count
 ![Count](https://profile-counter.glitch.me/0x0is1/count.svg)
 -
-![contrib](https://activity-graph.herokuapp.com/graph?username=0x0is1&theme=github&count_private=false)
--
 ## Contact
 <a href="mailto:0x0is1@protonmail.com"><img src="https://cdn-icons-png.flaticon.com/512/860/860758.png" alt="protonmail" length=50 width=50></img></a>
 <a href="https://reddit.com/u/0x0is1"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384051.png" alt="reddit" length=50 width=50></img></a>
