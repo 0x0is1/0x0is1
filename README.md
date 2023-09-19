@@ -1,7 +1,7 @@
 ## Introduction
 * Former MERN Developer
 * Former Security Researcher/Pentester
-* Founder [@TensorFault](https://github.com/TensorFault)
+* Founder [@Algocry](https://github.com/organizations/algocry)
 * Student at Lovely Professional University
 
 [![Github Overview](https://github-readme-stats.vercel.app/api?username=0x0is1&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/0x0is1) <br>
