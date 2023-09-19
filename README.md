@@ -1,6 +1,4 @@
 ## Introduction
-* Former MERN Developer
-* Former Security Researcher/Pentester
 * Founder [@Algocry](https://github.com/organizations/algocry)
 * Student at Lovely Professional University
 
